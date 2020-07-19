@@ -1,2 +1,0 @@
-# app
-React portfolio app
